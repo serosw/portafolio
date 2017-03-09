@@ -268,7 +268,7 @@ div#preloader {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #fff url("../images/loader.gif") no-repeat center center;
+  background: #fff url("../images/load.gif") no-repeat center center;
 }
 
 .center-img {
@@ -863,7 +863,7 @@ Pricing tables
   color: #fff;
 }
 
-/* 
+/*
 Portfolio styles
 */
 .work-header {
@@ -1032,7 +1032,7 @@ Footer styles
 
 /*personal template preloader**/
 div#preloader {
-  background: #fff url("../images/personal-loader.gif") no-repeat center center;
+  background: #fff url("../images/personal-load.gif") no-repeat center center;
 }
 
 /**parallax hero**/
